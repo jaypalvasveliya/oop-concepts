@@ -17,7 +17,7 @@ objj.GetcompanyName();
 
     public void GetcompanyName()
     {
-        Console.WriteLine("it will return company name");
+        Console.WriteLine(" company name");
     }
  }
 
